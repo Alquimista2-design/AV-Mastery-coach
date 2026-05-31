@@ -1,0 +1,6 @@
+{
+  "name": "AV Mastery",
+  "description": "Coaching de alto impacto para líderes, emprendedores y profesionales ambiciosos con Alejandro Vargas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
